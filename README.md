@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [General Info](#general-info)
-- [Project Description](#features)
+- [Project Description](#project-description)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 
